@@ -4,7 +4,7 @@
   "description": "This repository is created to learn the testing using Jest",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
